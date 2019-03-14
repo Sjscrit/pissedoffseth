@@ -1,5 +1,6 @@
-<!DOCTYPE>
-<html>
+
+
+<!DOCTYPE html>
 <head>
 <title>chat bot deployment</title>
 </head>
@@ -9,5 +10,6 @@ We will program this bot to interact with the user to analyze his behavior and t
 for his next probable online purchase. This will save the user money and allow data collection to further
 machine learning.
 </body>
+
 
 </html>
